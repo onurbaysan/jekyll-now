@@ -1,4 +1,7 @@
-# Remote Debugging in Java
+---
+layout: post
+title: Remote Debugging in Java
+---
 
 It’s a brief tutorial how to debugging remotely in Java by attaching to running jvm.
 
