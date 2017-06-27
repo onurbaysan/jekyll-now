@@ -1,4 +1,7 @@
-# Spring Profiles
+---
+layout: post
+title: Spring Profiles
+---
 
 Spring Profiles allow users to use various configurations, register different beans etc. Working on different environments may cause some problems or we need to run with quick setup on our development environment. To make it more clear, we can mention to database issues.
 
