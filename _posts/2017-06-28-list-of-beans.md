@@ -4,7 +4,7 @@ title: Creating List of Beans in Spring
 ---
 
 
-Let’s think we need a list of IMoveable in a class and I need to pass it through property injection in Spring. The easiest way is: (shown below).
+Let’s think we need a list of IMoveable in a class and I need to pass it through property injection in Spring. The easiest way is:
 
 
 ```xml
