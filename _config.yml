@@ -86,4 +86,5 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-leap-day
+remote_theme: thelehhman/plainwhite-jekyll
+theme: plainwhite
